@@ -1,0 +1,35 @@
+.Virtual {
+  text-align: center; 
+  background-color: yellow;
+}
+
+
+.Bizning {
+    color: cadetblue;
+}
+
+
+.faktlar {
+    text-align: center;
+    background-color: yellow;
+    color: cadetblue;
+}
+
+
+.Hayvonlar {
+    text-align: center;
+    background-color: yellow;
+    color: cadetblue;
+}
+
+
+.Oz {
+    color: darkcyan;
+}
+
+
+form {
+    padding: 20px;
+    width: 50px;
+    margin: 0 auto;
+}
